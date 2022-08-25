@@ -1,0 +1,10 @@
+public class RemovingMethod {
+
+    public static void main(String[] args) {
+
+        ArrayList<String> words = new ArrayList<>();
+        words.add("today");
+        words.add("raining");
+        words.add("java");
+        words.add("flying");
+        System.out.println(words);
